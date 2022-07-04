@@ -48,3 +48,28 @@ body {
 }
 
 /* ====================================================== */
+
+.second-section {
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0;
+}
+
+.second-section .parts img {
+    width: 50%;
+    margin-left: 20%;
+    margin-top: 10%;
+}
+
+.second-section .parts h2 {
+    margin-top: 25%;
+    font-size: 6em;
+}
+
+.second-section .parts p {
+    margin-bottom: 10%;
+    font-size: 2.2em;
+}
+
+/* ================================================ */
