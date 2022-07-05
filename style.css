@@ -134,3 +134,54 @@ body {
 }
 
 /* ========================================================= */
+
+
+.achievement {
+    width: 90%;
+    margin: 5% auto;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.1), -10px -10px 20px rgba(0, 0, 0, 0.1);
+    border-radius: 30px;
+    display: flex;
+}
+
+.achievement .parts {
+    width: 33.33333%;
+    text-align: center;
+    padding: 3% 0;
+}
+
+.achievement .parts h2 {
+    font-size: 5em;
+    margin: 2% 0 0 0;
+}
+
+.achievement .parts p {
+    font-size: 2.2em;
+    margin-top: 1%;
+    margin-left: 15%;
+}
+
+
+
+/* ======================================================= */
+footer {
+    background: #0b0920;
+    padding: 2% 0 8%;
+    text-align: center;
+}
+
+footer h2 {
+    font-size: 4.5em;
+    color: grey;
+    margin-bottom: 2%;
+    margin-top: 5%;
+}
+
+footer h2 span {
+    color: orange;
+}
+
+footer p {
+    font-size: 2.2em;
+    color: rgba(255, 255, 255, 0.8);
+}
